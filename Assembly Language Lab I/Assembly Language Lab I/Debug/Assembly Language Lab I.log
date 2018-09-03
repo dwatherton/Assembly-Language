@@ -1,0 +1,3 @@
+﻿  Assembling Lab I.asm...
+Lab I.asm(12): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  Assembly Language Lab I.vcxproj -> C:\Users\Michelle\source\repos\Assembly Language\Assembly Language Lab I\Debug\Assembly Language Lab I.exe
